@@ -7,9 +7,9 @@ This resource was made to detect phishing scams. People usually fall victim to a
 The resource is for everyone regardless of the age and intelligence as attackers target psychological habits rather than technical flaws on the device.
 
 ## Contents
-* checklists/spotting-red-flags.md: signals a message whether suspicious or not
-* reporting/how-to-report-phishing.md
-* references-phishing.md
+* checklists/spotting-red-flags.md: uncovering potential hazards
+* reporting/how-to-report-phishing.md: guidelines for reporting security threats
+* references-phishing.md: reference materials for phishing awareness
  
 ## How to use it
 1. **Screenshot the suspicious message:** Capture the text, sender details, and full headers/URLS.
