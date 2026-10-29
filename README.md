@@ -3,7 +3,7 @@
 ## About
 This resource was made to detect phishing scams. People usually fall victim to a cyberattack due to the inability to recognise the red flags. With this resource if they suspect anything dodgy sent to them they could use the resource to spot the scam.
 
-## Who it's for 
+## Who it's for
 The resource is for everyone regardless of the age and intelligence as attackers target psychological habits rather than technical flaws on the device.
 
 ## Contents
