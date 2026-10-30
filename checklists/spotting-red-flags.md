@@ -2,7 +2,7 @@
 
 ## Sender
 - [ ] Does the display name match the actual email address header?
-- [ ] Are the typos in the domain name (e.g., microsft.com instead of microsoft.com)?
+- [ ] Are there typos in the domain name (e.g., microsft.com instead of microsoft.com)?
 - [ ] Have you received unexpected emails from this sender before?
 
 ## Message wording
