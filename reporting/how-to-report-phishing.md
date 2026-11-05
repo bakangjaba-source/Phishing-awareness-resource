@@ -1,6 +1,6 @@
 # How to Report a Suspected Phishing Message
 
-## Before You Report
+## Before You Report 
 - Do not interact further: Avoid opening attachments and clicking links.
 - Disconnect if compromised: If you suspect an attachment contained malware, immediately disconnect your device from the internet.
   
