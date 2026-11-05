@@ -1,4 +1,4 @@
-# Phishing Red Flags Checklist
+# Phishing Red Flags Checklist 
 
 ## Sender
 - [ ] Does the display name match the actual email address header?
